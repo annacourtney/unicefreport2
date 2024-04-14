@@ -1,0 +1,223 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Albania,AL,ALB,8,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,7.654916286468506,Female,,%,,,,Total
+Albania,AL,ALB,8,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,6.561394691467285,Male,,%,,,,Total
+Albania,AL,ALB,8,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,7.101171970367432,Total,,%,,,,Total
+Algeria,DZ,DZA,12,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,16.066301345825195,Female,,%,,,,Total
+Algeria,DZ,DZA,12,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,16.60234832763672,Male,,%,,,,Total
+Algeria,DZ,DZA,12,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,16.341026306152344,Total,,%,,,,Total
+Angola,AO,AGO,24,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,52.52457809448242,Female,,%,,,,Total
+Angola,AO,AGO,24,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,51.988037109375,Male,,%,,,,Total
+Angola,AO,AGO,24,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,52.25838088989258,Total,,%,,,,Total
+Armenia,AM,ARM,51,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,3.8331985473632812,Female,,%,,,,Total
+Armenia,AM,ARM,51,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,4.210834980010986,Male,,%,,,,Total
+Armenia,AM,ARM,51,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,4.034465312957764,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,24.544776916503906,Female,,%,,,,Total
+Bangladesh,BD,BGD,50,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,23.878070831298828,Male,,%,,,,Total
+Bangladesh,BD,BGD,50,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,24.21149253845215,Total,,%,,,,Total
+Belize,BZ,BLZ,84,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,16.875225067138672,Female,,%,,,,Total
+Belize,BZ,BLZ,84,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,15.977835655212402,Male,,%,,,,Total
+Belize,BZ,BLZ,84,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,16.413541793823242,Total,,%,,,,Total
+Benin,BJ,BEN,204,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,69.54659271240234,Female,,%,,,,Total
+Benin,BJ,BEN,204,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,69.34976196289062,Male,,%,,,,Total
+Benin,BJ,BEN,204,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,69.4467544555664,Total,,%,,,,Total
+Burundi,BI,BDI,108,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,23.78917694091797,Female,,%,,,,Total
+Burundi,BI,BDI,108,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,24.32869529724121,Male,,%,,,,Total
+Burundi,BI,BDI,108,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,24.05662727355957,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,71.14595794677734,Female,,%,,,,Total
+Cambodia,KH,KHM,116,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,72.52139282226562,Male,,%,,,,Total
+Cambodia,KH,KHM,116,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,71.84466552734375,Total,,%,,,,Total
+Cameroon,CM,CMR,120,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,29.047714233398438,Female,,%,,,,Total
+Cameroon,CM,CMR,120,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,27.429014205932617,Male,,%,,,,Total
+Cameroon,CM,CMR,120,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,28.235328674316406,Total,,%,,,,Total
+Chad,TD,TCD,148,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,81.30648040771484,Female,,%,,,,Total
+Chad,TD,TCD,148,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,79.60204315185547,Male,,%,,,,Total
+Chad,TD,TCD,148,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,80.43716430664062,Total,,%,,,,Total
+Comoros,KM,COM,174,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,24.87161636352539,Female,,%,,,,Total
+Comoros,KM,COM,174,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,26.152645111083984,Male,,%,,,,Total
+Comoros,KM,COM,174,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,25.520671844482422,Total,,%,,,,Total
+Congo,CG,COG,178,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,30.68912124633789,Female,,%,,,,Total
+Congo,CG,COG,178,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,30.521976470947266,Male,,%,,,,Total
+Congo,CG,COG,178,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,30.605852127075195,Total,,%,,,,Total
+Costa Rica,CR,CRI,188,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,2.7560369968414307,Female,,%,,,,Total
+Costa Rica,CR,CRI,188,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,2.530564308166504,Male,,%,,,,Total
+Costa Rica,CR,CRI,188,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,2.6400771141052246,Total,,%,,,,Total
+Côte d'Ivoire,CI,CIV,384,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,47.77937698364258,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,47.77937698364258,Female,,%,,,,Total
+Côte d'Ivoire,CI,CIV,384,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,45.44273376464844,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,45.44273376464844,Male,,%,,,,Total
+Côte d'Ivoire,CI,CIV,384,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,46.5936164855957,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,46.5936164855957,Total,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,41.60824966430664,Female,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,40.05396270751953,Male,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,40.83245849609375,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,13.211668968200684,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,15.171370506286621,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,14.192444801330566,Total,,%,,,,Total
+Egypt,EG,EGY,818,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,12.060386657714844,Female,,%,,,,Total
+Egypt,EG,EGY,818,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,12.124439239501953,Male,,%,,,,Total
+Egypt,EG,EGY,818,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,12.093639373779297,Total,,%,,,,Total
+El Salvador,SV,SLV,222,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,21.4929141998291,Female,,%,,,,Total
+El Salvador,SV,SLV,222,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,21.11880874633789,Male,,%,,,,Total
+El Salvador,SV,SLV,222,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,21.300617218017578,Total,,%,,,,Total
+Swaziland,SZ,SWZ,748,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,32.15630340576172,Female,,%,,,,Total
+Swaziland,SZ,SWZ,748,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,33.734947204589844,Male,,%,,,,Total
+Swaziland,SZ,SWZ,748,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,32.95541763305664,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,72.98358917236328,Female,,%,,,,Total
+Ethiopia,ET,ETH,231,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,73.28338623046875,Male,,%,,,,Total
+Ethiopia,ET,ETH,231,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,73.13780975341797,Total,,%,,,,Total
+Gabon,GA,GAB,266,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,19.786243438720703,Female,,%,,,,Total
+Gabon,GA,GAB,266,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,19.38554573059082,Male,,%,,,,Total
+Gabon,GA,GAB,266,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,19.590499877929688,Total,,%,,,,Total
+Gambia,GM,GMB,270,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,17.485523223876953,Female,,%,,,,Total
+Gambia,GM,GMB,270,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,20.258893966674805,Male,,%,,,,Total
+Gambia,GM,GMB,270,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,18.850383758544922,Total,,%,,,,Total
+Ghana,GH,GHA,288,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,47.18230056762695,Female,,%,,,,Total
+Ghana,GH,GHA,288,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,50.47955322265625,Male,,%,,,,Total
+Ghana,GH,GHA,288,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,48.86249923706055,Total,,%,,,,Total
+Guatemala,GT,GTM,320,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,40.3980827331543,Female,,%,,,,Total
+Guatemala,GT,GTM,320,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,38.79816436767578,Male,,%,,,,Total
+Guatemala,GT,GTM,320,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,39.58977127075195,Total,,%,,,,Total
+Guinea,GN,GIN,324,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,47.24271011352539,Female,,%,,,,Total
+Guinea,GN,GIN,324,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,43.76436996459961,Male,,%,,,,Total
+Guinea,GN,GIN,324,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,45.50018310546875,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,38.66675567626953,Female,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,36.976837158203125,Male,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,37.80472946166992,Total,,%,,,,Total
+Guyana,GY,GUY,328,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,14.672181129455566,Female,,%,,,,Total
+Guyana,GY,GUY,328,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,13.315404891967773,Male,,%,,,,Total
+Guyana,GY,GUY,328,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,13.988157272338867,Total,,%,,,,Total
+Haiti,HT,HTI,332,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,42.96968460083008,Female,,%,,,,Total
+Haiti,HT,HTI,332,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,44.78482437133789,Male,,%,,,,Total
+Haiti,HT,HTI,332,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,43.894142150878906,Total,,%,,,,Total
+Honduras,HN,HND,340,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,32.044700622558594,Female,,%,,,,Total
+Honduras,HN,HND,340,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,32.75897216796875,Male,,%,,,,Total
+Honduras,HN,HND,340,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,32.413665771484375,Total,,%,,,,Total
+India,IN,IND,356,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,61.163665771484375,Female,,%,,,,Total
+India,IN,IND,356,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,59.39094924926758,Male,,%,,,,Total
+India,IN,IND,356,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,60.244712829589844,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,24.724571228027344,Female,,%,,,,Total
+Iraq,IQ,IRQ,368,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,22.247474670410156,Male,,%,,,,Total
+Iraq,IQ,IRQ,368,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,23.448150634765625,Total,,%,,,,Total
+Kenya,KE,KEN,404,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,46.35214614868164,Female,,%,,,,Total
+Kenya,KE,KEN,404,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,46.92201232910156,Male,,%,,,,Total
+Kenya,KE,KEN,404,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,46.638946533203125,Total,,%,,,,Total
+Kiribati,KI,KIR,296,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,53.7394905090332,Female,,%,,,,Total
+Kiribati,KI,KIR,296,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,52.54250717163086,Male,,%,,,,Total
+Kiribati,KI,KIR,296,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,53.12002944946289,Total,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,11.08918285369873,Female,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,12.412540435791016,Male,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,11.772290229797363,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,49.29597854614258,Female,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,49.12691879272461,Male,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,49.20970916748047,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,47.756690979003906,Female,,%,,,,Total
+Lesotho,LS,LSO,426,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,48.35554885864258,Male,,%,,,,Total
+Lesotho,LS,LSO,426,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,48.05428695678711,Total,,%,,,,Total
+Liberia,LR,LBR,430,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,62.82524871826172,Female,,%,,,,Total
+Liberia,LR,LBR,430,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,62.84489059448242,Male,,%,,,,Total
+Liberia,LR,LBR,430,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,62.835289001464844,Total,,%,,,,Total
+Madagascar,MG,MDG,450,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,71.26690673828125,Female,,%,,,,Total
+Madagascar,MG,MDG,450,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,71.23265838623047,Male,,%,,,,Total
+Madagascar,MG,MDG,450,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,71.24952697753906,Total,,%,,,,Total
+Malawi,MW,MWI,454,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,24.97470474243164,Female,,%,,,,Total
+Malawi,MW,MWI,454,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,24.695436477661133,Male,,%,,,,Total
+Malawi,MW,MWI,454,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,24.835147857666016,Total,,%,,,,Total
+Maldives,MV,MDV,462,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,8.636186599731445,Female,,%,,,,Total
+Maldives,MV,MDV,462,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,9.677793502807617,Male,,%,,,,Total
+Maldives,MV,MDV,462,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,9.174131393432617,Total,,%,,,,Total
+Mali,ML,MLI,466,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,43.47034454345703,Female,,%,,,,Total
+Mali,ML,MLI,466,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,41.79623031616211,Male,,%,,,,Total
+Mali,ML,MLI,466,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,42.62075424194336,Total,,%,,,,Total
+Mauritania,MR,MRT,478,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,64.88628387451172,Female,,%,,,,Total
+Mauritania,MR,MRT,478,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,64.36532592773438,Male,,%,,,,Total
+Mauritania,MR,MRT,478,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,64.62894439697266,Total,,%,,,,Total
+Mexico,MX,MEX,484,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,17.124237060546875,Female,,%,,,,Total
+Mexico,MX,MEX,484,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,15.671878814697266,Male,,%,,,,Total
+Mexico,MX,MEX,484,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,16.39940643310547,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,27.329524993896484,Female,,%,,,,Total
+Mongolia,MN,MNG,496,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,27.6532039642334,Male,,%,,,,Total
+Mongolia,MN,MNG,496,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,27.49608039855957,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,60.020748138427734,Female,,%,,,,Total
+Mozambique,MZ,MOZ,508,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,59.11758041381836,Male,,%,,,,Total
+Mozambique,MZ,MOZ,508,Percentage children suffering at least one deprivation. Homogeneous severe standards,2011,59.57489013671875,Total,,%,,,,Total
+Myanmar,MM,MMR,104,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,45.96233367919922,Female,,%,,,,Total
+Burma,MM,MMR,104,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,45.96233367919922,Female,,%,,,,Total
+Myanmar,MM,MMR,104,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,45.36777114868164,Male,,%,,,,Total
+Burma,MM,MMR,104,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,45.36777114868164,Male,,%,,,,Total
+Myanmar,MM,MMR,104,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,45.66059494018555,Total,,%,,,,Total
+Burma,MM,MMR,104,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,45.66059494018555,Total,,%,,,,Total
+Namibia,,NAM,516,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,61.27951431274414,Female,,%,,,,Total
+Namibia,,NAM,516,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,62.94498062133789,Male,,%,,,,Total
+Namibia,,NAM,516,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,62.11032485961914,Total,,%,,,,Total
+Nepal,NP,NPL,524,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,32.788475036621094,Female,,%,,,,Total
+Nepal,NP,NPL,524,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,30.545475006103516,Male,,%,,,,Total
+Nepal,NP,NPL,524,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,31.663454055786133,Total,,%,,,,Total
+Niger,NE,NER,562,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,83.81993103027344,Female,,%,,,,Total
+Niger,NE,NER,562,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,83.13028717041016,Male,,%,,,,Total
+Niger,NE,NER,562,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,83.46825408935547,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,50.426876068115234,Female,,%,,,,Total
+Nigeria,NG,NGA,566,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,50.000091552734375,Male,,%,,,,Total
+Nigeria,NG,NGA,566,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,50.21057891845703,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,53.65660858154297,Female,,%,,,,Total
+Pakistan,PK,PAK,586,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,51.19110107421875,Male,,%,,,,Total
+Pakistan,PK,PAK,586,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,52.424766540527344,Total,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,54.4033088684082,Female,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,54.49930953979492,Male,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,54.45390701293945,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,12.545280456542969,Female,,%,,,,Total
+Paraguay,PY,PRY,600,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,11.16555404663086,Male,,%,,,,Total
+Paraguay,PY,PRY,600,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,11.838051795959473,Total,,%,,,,Total
+Peru,PE,PER,604,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,18.759746551513672,Female,,%,,,,Total
+Peru,PE,PER,604,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,18.498950958251953,Male,,%,,,,Total
+Peru,PE,PER,604,Percentage children suffering at least one deprivation. Homogeneous severe standards,2012,18.625778198242188,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,25.384323120117188,Female,,%,,,,Total
+Rwanda,RW,RWA,646,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,27.41868019104004,Male,,%,,,,Total
+Rwanda,RW,RWA,646,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,26.39992332458496,Total,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,55.51213836669922,Female,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,57.04378890991211,Male,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,56.26682662963867,Total,,%,,,,Total
+Senegal,SN,SEN,686,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,37.959571838378906,Female,,%,,,,Total
+Senegal,SN,SEN,686,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,39.45735549926758,Male,,%,,,,Total
+Senegal,SN,SEN,686,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,38.701358795166016,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,40.88930130004883,Female,,%,,,,Total
+Sierra Leone,SL,SLE,694,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,41.94753646850586,Male,,%,,,,Total
+Sierra Leone,SL,SLE,694,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,41.419376373291016,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,17.498144149780273,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,17.12795066833496,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,17.308435440063477,Total,,%,,,,Total
+Suriname,SR,SUR,740,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,16.48011589050293,Female,,%,,,,Total
+Suriname,SR,SUR,740,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,15.273616790771484,Male,,%,,,,Total
+Suriname,SR,SUR,740,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,15.862074851989746,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,30.136051177978516,Female,,%,,,,Total
+Tajikistan,TJ,TJK,762,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,29.612529754638672,Male,,%,,,,Total
+Tajikistan,TJ,TJK,762,Percentage children suffering at least one deprivation. Homogeneous severe standards,2017,29.868173599243164,Total,,%,,,,Total
+Thailand,TH,THA,764,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,8.605237007141113,Female,,%,,,,Total
+Thailand,TH,THA,764,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,8.785741806030273,Male,,%,,,,Total
+Thailand,TH,THA,764,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,8.697178840637207,Total,,%,,,,Total
+Timor-Leste,TL,TLS,626,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,37.91082763671875,Female,,%,,,,Total
+Timor-Leste,TL,TLS,626,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,39.13638687133789,Male,,%,,,,Total
+Timor-Leste,TL,TLS,626,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,38.54291534423828,Total,,%,,,,Total
+Togo,TG,TGO,768,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,68.10271453857422,Female,,%,,,,Total
+Togo,TG,TGO,768,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,69.05622863769531,Male,,%,,,,Total
+Togo,TG,TGO,768,Percentage children suffering at least one deprivation. Homogeneous severe standards,2014,68.58829498291016,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,8.848265647888184,Female,,%,,,,Total
+Tunisia,TN,TUN,788,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,9.346304893493652,Male,,%,,,,Total
+Tunisia,TN,TUN,788,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,9.102604866027832,Total,,%,,,,Total
+Turkmenistan,TM,TKM,795,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,5.7619147300720215,Female,,%,,,,Total
+Turkmenistan,TM,TKM,795,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,5.53529167175293,Male,,%,,,,Total
+Turkmenistan,TM,TKM,795,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,5.6451287269592285,Total,,%,,,,Total
+Uganda,UG,UGA,800,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,35.211334228515625,Female,,%,,,,Total
+Uganda,UG,UGA,800,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,35.18134689331055,Male,,%,,,,Total
+Uganda,UG,UGA,800,Percentage children suffering at least one deprivation. Homogeneous severe standards,2016,35.196285247802734,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,36.64429473876953,Female,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,39.46643829345703,Male,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,38.06033706665039,Total,,%,,,,Total
+Yemen,YE,YEM,887,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,57.651573181152344,Female,,%,,,,Total
+Yemen,YE,YEM,887,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,54.532779693603516,Male,,%,,,,Total
+Yemen,YE,YEM,887,Percentage children suffering at least one deprivation. Homogeneous severe standards,2013,56.06221008300781,Total,,%,,,,Total
+Zambia,ZM,ZMB,894,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,38.76190185546875,Female,,%,,,,Total
+Zambia,ZM,ZMB,894,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,40.50412368774414,Male,,%,,,,Total
+Zambia,ZM,ZMB,894,Percentage children suffering at least one deprivation. Homogeneous severe standards,2018,39.6242561340332,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,39.56013488769531,Female,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,41.8703727722168,Male,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Percentage children suffering at least one deprivation. Homogeneous severe standards,2015,40.71895217895508,Total,,%,,,,Total
